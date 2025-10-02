@@ -25,11 +25,12 @@ The goal is to improve the translation of culinary terms and dish names, preserv
 
 ## Dataset
 
-The project is based on a custom bilingual dataset of restaurant menu items translated from Russian into English. | Dataset | Size | Description | 
-|-------------------------|------|-----------------------------------------------------------------------------| 
-| Original dataset | 312 | Menu items from Russian restaurants, manually translated into English | 
-| Augmented dataset v1 | 907 | Expanded version created via data augmentation | 
-| Augmented dataset v2 | 1262 | Further extended dataset with additional augmented entries | 
+
+| Dataset | Size | Description |
+|---------|------|-------------|
+| Original dataset | 312 | Menu items from Russian restaurants, manually translated into English |
+| Augmented dataset v1 | 907 | Expanded version created via data augmentation |
+| Augmented dataset v2 | 1,262 | Further extended dataset with additional augmented entries |
 
 ## Augmentation & Reproducibility
 
