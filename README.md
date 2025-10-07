@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)]()
 [![Status](https://img.shields.io/badge/status-experimental-orange.svg)]()
 
-**Summary:** This repository contains experiments with adapting the [**Helsinki-NLP/opus-mt-ru-en**](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en) translation model using Low-Rank Adaptation (LoRA) for culinary terminology. It includes a training notebook, datasets (original + augmented), model files, reproducibility instructions, and inference examples.
+**Summary:** This repository contains experiments with adapting the [**Helsinki-NLP/opus-mt-ru-en**](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en) translation model using Low-Rank Adaptation (LoRA) for culinary terminology. It includes a training notebook, datasets (2 augmented versions), model files, reproducibility instructions, and inference examples.
 
 ---
 
